@@ -77,6 +77,8 @@ The Jupyter Notebook will generate Cartopy plots for each day where both Sentine
 - Observation times for S1 and S2 (as comma-separated strings)
 - Days elapsed since the previous occurrence
 
+![Example of a generated image - Naples, Italy](example_figure_Naples.png)
+
 ### Extrapolating Future Observations
 The extrapolate.py script uses historical observation intervals and time patterns to extrapolate future acquisition dates. The script is structured as follows:
 
